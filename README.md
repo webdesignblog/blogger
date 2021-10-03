@@ -6,4 +6,4 @@ https://gist.github.com/webdesignblog/7780c29cd1ce14ff6abf3567ea7a9185
 
 
 
-https://www.webdesigned.eu.org
+https://www.styles.eu.org
